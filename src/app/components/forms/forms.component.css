@@ -1,0 +1,4 @@
+input[type="date"] {
+    height: calc(2.25rem + 2px); /* Ajusta a altura para igualar aos outros inputs */
+    padding: 0.375rem 0.75rem; /* Mantém o espaçamento */
+}
